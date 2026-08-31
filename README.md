@@ -1,2 +1,2 @@
 # JavaPractice
-All Java Practice code
+My Java Learning
